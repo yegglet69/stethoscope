@@ -1,0 +1,16 @@
+[
+  {
+    "summary_date": "2022-01-29",
+    "period_id": 2,
+    "score": 56,
+    "score_activity_balance": 85,
+    "score_hrv_balance": 53,
+    "score_previous_day": 85,
+    "score_previous_night": 36,
+    "score_recovery_index": 46,
+    "score_resting_hr": 84,
+    "score_sleep_balance": 34,
+    "score_temperature": 100,
+    "rest_mode_state": 0
+  }
+]
