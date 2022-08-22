@@ -1,0 +1,69 @@
+{
+  "2022-06-19": {
+    "score": 50,
+    "score_activity_balance": 72,
+    "score_hrv_balance": 23,
+    "score_previous_day": 97,
+    "score_previous_night": 34,
+    "score_recovery_index": 42,
+    "score_resting_hr": 30,
+    "score_sleep_balance": 63,
+    "score_temperature": 96
+  },
+  "2022-06-20": {
+    "score": 63,
+    "score_activity_balance": 74,
+    "score_hrv_balance": 42,
+    "score_previous_day": 88,
+    "score_previous_night": 45,
+    "score_recovery_index": 68,
+    "score_resting_hr": 89,
+    "score_sleep_balance": 56,
+    "score_temperature": 100
+  },
+  "2022-06-21": {
+    "score": 71,
+    "score_activity_balance": 77,
+    "score_hrv_balance": 57,
+    "score_previous_day": 100,
+    "score_previous_night": 57,
+    "score_recovery_index": 77,
+    "score_resting_hr": 100,
+    "score_sleep_balance": 55,
+    "score_temperature": 82
+  },
+  "2022-06-22": {
+    "score": 57,
+    "score_activity_balance": 75,
+    "score_hrv_balance": 55,
+    "score_previous_day": 84,
+    "score_previous_night": 36,
+    "score_recovery_index": 47,
+    "score_resting_hr": 71,
+    "score_sleep_balance": 47,
+    "score_temperature": 85
+  },
+  "2022-06-23": {
+    "score": 59,
+    "score_activity_balance": 79,
+    "score_hrv_balance": 55,
+    "score_previous_day": 91,
+    "score_previous_night": 39,
+    "score_recovery_index": 69,
+    "score_resting_hr": 72,
+    "score_sleep_balance": 42,
+    "score_temperature": 86
+  },
+  "2022-06-24": {
+    "score": 70,
+    "score_activity_balance": 79,
+    "score_hrv_balance": 66,
+    "score_previous_day": 83,
+    "score_previous_night": 87,
+    "score_recovery_index": 39,
+    "score_resting_hr": 93,
+    "score_sleep_balance": 51,
+    "score_temperature": 94
+  },
+  "2022-06-25": {}
+}

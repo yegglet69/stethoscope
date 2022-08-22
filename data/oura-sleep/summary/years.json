@@ -1,12 +1,13 @@
 {
+  "2021": {},
   "2022": {
-    "total": 85590,
-    "rem": 13980,
-    "awake": 17730,
-    "deep": 19500,
-    "duration": 103320,
-    "efficiency": 255,
-    "light": 52110,
-    "score": 206
+    "total": 4054260,
+    "rem": 663900,
+    "awake": 956520,
+    "deep": 1211460,
+    "duration": 5010780,
+    "efficiency": 14673,
+    "light": 2178900,
+    "score": 11240
   }
 }

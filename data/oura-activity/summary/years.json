@@ -1,9 +1,10 @@
 {
+  "2021": {},
   "2022": {
-    "steps": 42854,
-    "total": 1612,
-    "cal_active": 1590,
-    "cal_total": 10368,
-    "score": 401
+    "steps": 1772379,
+    "total": 73104,
+    "cal_active": 56091,
+    "cal_total": 386517,
+    "score": 15644
   }
 }

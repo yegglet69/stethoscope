@@ -1,17 +1,59 @@
 {
-  "1": {},
-  "2": {},
-  "3": {},
-  "4": {},
-  "5": {},
-  "6": {},
-  "7": {},
+  "1": {
+    "steps": 119074,
+    "total": 5016,
+    "cal_active": 4099,
+    "cal_total": 30853,
+    "score": 1143
+  },
+  "2": {
+    "steps": 271991,
+    "total": 11368,
+    "cal_active": 8826,
+    "cal_total": 52801,
+    "score": 1886
+  },
+  "3": {
+    "steps": 290504,
+    "total": 11026,
+    "cal_active": 8792,
+    "cal_total": 55018,
+    "score": 2540
+  },
+  "4": {
+    "steps": 235056,
+    "total": 10385,
+    "cal_active": 7144,
+    "cal_total": 51987,
+    "score": 2205
+  },
+  "5": {
+    "steps": 231899,
+    "total": 8752,
+    "cal_active": 6851,
+    "cal_total": 52503,
+    "score": 2271
+  },
+  "6": {
+    "steps": 227794,
+    "total": 10194,
+    "cal_active": 6880,
+    "cal_total": 51044,
+    "score": 2261
+  },
+  "7": {
+    "steps": 226243,
+    "total": 9697,
+    "cal_active": 7386,
+    "cal_total": 48061,
+    "score": 1592
+  },
   "8": {
-    "steps": 42854,
-    "total": 1612,
-    "cal_active": 1590,
-    "cal_total": 10368,
-    "score": 401
+    "steps": 169818,
+    "total": 6666,
+    "cal_active": 6113,
+    "cal_total": 44250,
+    "score": 1746
   },
   "9": {},
   "10": {},

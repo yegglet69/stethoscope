@@ -1,0 +1,151 @@
+{
+  "1": {},
+  "2": {},
+  "3": {},
+  "4": {},
+  "5": {},
+  "6": {},
+  "7": {},
+  "8": {},
+  "9": {},
+  "10": {},
+  "11": {},
+  "12": {},
+  "13": {},
+  "14": {},
+  "15": {},
+  "16": {},
+  "17": {
+    "score": 68,
+    "score_previous_night": 50,
+    "score_recovery_index": 69,
+    "score_resting_hr": 97,
+    "score_temperature": 98
+  },
+  "18": {
+    "score": 81,
+    "score_previous_day": 100,
+    "score_previous_night": 74,
+    "score_recovery_index": 58,
+    "score_resting_hr": 91,
+    "score_temperature": 100
+  },
+  "19": {
+    "score": 72,
+    "score_activity_balance": 95,
+    "score_previous_day": 87,
+    "score_previous_night": 58,
+    "score_recovery_index": 65,
+    "score_resting_hr": 74,
+    "score_sleep_balance": 68,
+    "score_temperature": 100
+  },
+  "20": {
+    "score": 61,
+    "score_activity_balance": 88,
+    "score_previous_day": 94,
+    "score_previous_night": 32,
+    "score_recovery_index": 43,
+    "score_resting_hr": 86,
+    "score_sleep_balance": 45,
+    "score_temperature": 100
+  },
+  "21": {
+    "score": 53,
+    "score_activity_balance": 90,
+    "score_previous_day": 85,
+    "score_previous_night": 43,
+    "score_recovery_index": 45,
+    "score_resting_hr": 49,
+    "score_sleep_balance": 30,
+    "score_temperature": 100
+  },
+  "22": {
+    "score": 63,
+    "score_activity_balance": 83,
+    "score_previous_day": 74,
+    "score_previous_night": 60,
+    "score_recovery_index": 55,
+    "score_resting_hr": 96,
+    "score_sleep_balance": 31,
+    "score_temperature": 86
+  },
+  "23": {
+    "score": 83,
+    "score_activity_balance": 91,
+    "score_previous_day": 90,
+    "score_previous_night": 86,
+    "score_recovery_index": 100,
+    "score_resting_hr": 95,
+    "score_sleep_balance": 61,
+    "score_temperature": 79
+  },
+  "24": {},
+  "25": {
+    "score": 69,
+    "score_activity_balance": 88,
+    "score_hrv_balance": 85,
+    "score_previous_day": 93,
+    "score_previous_night": 51,
+    "score_recovery_index": 56,
+    "score_resting_hr": 75,
+    "score_sleep_balance": 54,
+    "score_temperature": 97
+  },
+  "26": {
+    "score": 60,
+    "score_activity_balance": 85,
+    "score_hrv_balance": 80,
+    "score_previous_day": 87,
+    "score_previous_night": 49,
+    "score_recovery_index": 23,
+    "score_resting_hr": 56,
+    "score_sleep_balance": 49,
+    "score_temperature": 100
+  },
+  "27": {},
+  "28": {
+    "score": 49,
+    "score_activity_balance": 72,
+    "score_hrv_balance": 47,
+    "score_previous_day": 74,
+    "score_previous_night": 53,
+    "score_recovery_index": 48,
+    "score_resting_hr": 1,
+    "score_sleep_balance": 45,
+    "score_temperature": 100
+  },
+  "29": {
+    "score": 56,
+    "score_activity_balance": 85,
+    "score_hrv_balance": 53,
+    "score_previous_day": 85,
+    "score_previous_night": 36,
+    "score_recovery_index": 46,
+    "score_resting_hr": 84,
+    "score_sleep_balance": 34,
+    "score_temperature": 100
+  },
+  "30": {
+    "score": 58,
+    "score_activity_balance": 82,
+    "score_hrv_balance": 56,
+    "score_previous_day": 85,
+    "score_previous_night": 41,
+    "score_recovery_index": 31,
+    "score_resting_hr": 99,
+    "score_sleep_balance": 25,
+    "score_temperature": 100
+  },
+  "31": {
+    "score": 49,
+    "score_activity_balance": 82,
+    "score_hrv_balance": 55,
+    "score_previous_day": 83,
+    "score_previous_night": 26,
+    "score_recovery_index": 49,
+    "score_resting_hr": 75,
+    "score_sleep_balance": 16,
+    "score_temperature": 99
+  }
+}

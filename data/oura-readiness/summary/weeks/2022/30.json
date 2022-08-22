@@ -1,0 +1,35 @@
+{
+  "2022-07-17": {},
+  "2022-07-18": {},
+  "2022-07-19": {},
+  "2022-07-20": {},
+  "2022-07-21": {
+    "score": 64,
+    "score_activity_balance": 66,
+    "score_previous_day": 81,
+    "score_previous_night": 68,
+    "score_recovery_index": 56,
+    "score_resting_hr": 71,
+    "score_temperature": 100
+  },
+  "2022-07-22": {
+    "score": 68,
+    "score_activity_balance": 63,
+    "score_previous_day": 98,
+    "score_previous_night": 37,
+    "score_recovery_index": 40,
+    "score_resting_hr": 98,
+    "score_temperature": 88
+  },
+  "2022-07-23": {
+    "score": 65,
+    "score_activity_balance": 77,
+    "score_hrv_balance": 82,
+    "score_previous_day": 87,
+    "score_previous_night": 50,
+    "score_recovery_index": 63,
+    "score_resting_hr": 76,
+    "score_sleep_balance": 44,
+    "score_temperature": 100
+  }
+}

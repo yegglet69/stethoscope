@@ -1,0 +1,150 @@
+{
+  "1": {},
+  "2": {},
+  "3": {},
+  "4": {},
+  "5": {},
+  "6": {},
+  "7": {},
+  "8": {},
+  "9": {},
+  "10": {},
+  "11": {},
+  "12": {},
+  "13": {},
+  "14": {},
+  "15": {},
+  "16": {},
+  "17": {
+    "total": 21810,
+    "rem": 1680,
+    "awake": 3630,
+    "deep": 7140,
+    "duration": 25440,
+    "efficiency": 86,
+    "light": 12990,
+    "score": 62
+  },
+  "18": {
+    "total": 26610,
+    "rem": 2400,
+    "awake": 3570,
+    "deep": 11670,
+    "duration": 30180,
+    "efficiency": 88,
+    "light": 12540,
+    "score": 71
+  },
+  "19": {
+    "total": 23130,
+    "rem": 3570,
+    "awake": 6510,
+    "deep": 4080,
+    "duration": 29640,
+    "efficiency": 78,
+    "light": 15480,
+    "score": 59
+  },
+  "20": {
+    "total": 11490,
+    "rem": 360,
+    "awake": 5910,
+    "deep": 3840,
+    "duration": 17400,
+    "efficiency": 66,
+    "light": 7290,
+    "score": 38
+  },
+  "21": {
+    "total": 11820,
+    "rem": 60,
+    "awake": 2400,
+    "deep": 5700,
+    "duration": 14220,
+    "efficiency": 83,
+    "light": 6060,
+    "score": 47
+  },
+  "22": {
+    "total": 20220,
+    "rem": 2610,
+    "awake": 1800,
+    "deep": 6000,
+    "duration": 22020,
+    "efficiency": 92,
+    "light": 11610,
+    "score": 61
+  },
+  "23": {
+    "total": 42480,
+    "rem": 8250,
+    "awake": 10500,
+    "deep": 10920,
+    "duration": 52980,
+    "efficiency": 80,
+    "light": 23310,
+    "score": 81
+  },
+  "24": {},
+  "25": {
+    "total": 16800,
+    "rem": 900,
+    "awake": 3060,
+    "deep": 6870,
+    "duration": 19860,
+    "efficiency": 85,
+    "light": 9030,
+    "score": 55
+  },
+  "26": {
+    "total": 17310,
+    "rem": 2160,
+    "awake": 4950,
+    "deep": 8850,
+    "duration": 22260,
+    "efficiency": 78,
+    "light": 6300,
+    "score": 54
+  },
+  "27": {},
+  "28": {
+    "total": 18840,
+    "rem": 4380,
+    "awake": 1380,
+    "deep": 3960,
+    "duration": 20220,
+    "efficiency": 93,
+    "light": 10500,
+    "score": 57
+  },
+  "29": {
+    "total": 14190,
+    "rem": 60,
+    "awake": 3510,
+    "deep": 7380,
+    "duration": 17700,
+    "efficiency": 80,
+    "light": 6750,
+    "score": 45
+  },
+  "30": {
+    "total": 15120,
+    "rem": 930,
+    "awake": 3840,
+    "deep": 6420,
+    "duration": 18960,
+    "efficiency": 80,
+    "light": 7770,
+    "score": 49
+  },
+  "31": {
+    "total": 11670,
+    "rem": 0,
+    "awake": 5010,
+    "deep": 4560,
+    "duration": 16680,
+    "efficiency": 70,
+    "light": 7110,
+    "score": 39
+  }
+}

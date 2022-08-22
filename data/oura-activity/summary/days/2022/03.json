@@ -1,0 +1,219 @@
+{
+  "1": {
+    "steps": 7435,
+    "total": 303,
+    "cal_active": 217,
+    "cal_total": 1706,
+    "score": 73
+  },
+  "2": {
+    "steps": 17052,
+    "total": 543,
+    "cal_active": 510,
+    "cal_total": 2060,
+    "score": 90
+  },
+  "3": {
+    "steps": 12972,
+    "total": 429,
+    "cal_active": 410,
+    "cal_total": 1951,
+    "score": 92
+  },
+  "4": {
+    "steps": 12185,
+    "total": 453,
+    "cal_active": 356,
+    "cal_total": 1906,
+    "score": 93
+  },
+  "5": {
+    "steps": 5581,
+    "total": 154,
+    "cal_active": 176,
+    "cal_total": 1566,
+    "score": 86
+  },
+  "6": {
+    "steps": 5113,
+    "total": 240,
+    "cal_active": 150,
+    "cal_total": 1595,
+    "score": 83
+  },
+  "7": {
+    "steps": 22917,
+    "total": 603,
+    "cal_active": 690,
+    "cal_total": 2212,
+    "score": 93
+  },
+  "8": {
+    "steps": 9807,
+    "total": 439,
+    "cal_active": 291,
+    "cal_total": 1810,
+    "score": 94
+  },
+  "9": {
+    "steps": 6472,
+    "total": 269,
+    "cal_active": 197,
+    "cal_total": 1654,
+    "score": 87
+  },
+  "10": {
+    "steps": 7880,
+    "total": 368,
+    "cal_active": 233,
+    "cal_total": 1792,
+    "score": 78
+  },
+  "11": {
+    "steps": 4153,
+    "total": 229,
+    "cal_active": 130,
+    "cal_total": 1623,
+    "score": 73
+  },
+  "12": {
+    "steps": 5654,
+    "total": 272,
+    "cal_active": 165,
+    "cal_total": 1611,
+    "score": 81
+  },
+  "13": {
+    "steps": 11521,
+    "total": 383,
+    "cal_active": 332,
+    "cal_total": 1809,
+    "score": 85
+  },
+  "14": {
+    "steps": 13411,
+    "total": 438,
+    "cal_active": 438,
+    "cal_total": 1940,
+    "score": 87
+  },
+  "15": {
+    "steps": 6410,
+    "total": 303,
+    "cal_active": 196,
+    "cal_total": 1729,
+    "score": 78
+  },
+  "16": {
+    "steps": 8513,
+    "total": 390,
+    "cal_active": 246,
+    "cal_total": 1786,
+    "score": 82
+  },
+  "17": {
+    "steps": 1339,
+    "total": 66,
+    "cal_active": 40,
+    "cal_total": 1359,
+    "score": 82
+  },
+  "18": {
+    "steps": 6523,
+    "total": 320,
+    "cal_active": 196,
+    "cal_total": 1651,
+    "score": 78
+  },
+  "19": {
+    "steps": 5595,
+    "total": 320,
+    "cal_active": 178,
+    "cal_total": 1681,
+    "score": 67
+  },
+  "20": {
+    "steps": 9280,
+    "total": 415,
+    "cal_active": 288,
+    "cal_total": 1808,
+    "score": 70
+  },
+  "21": {
+    "steps": 13243,
+    "total": 427,
+    "cal_active": 428,
+    "cal_total": 1934,
+    "score": 77
+  },
+  "22": {
+    "steps": 8408,
+    "total": 422,
+    "cal_active": 259,
+    "cal_total": 1768,
+    "score": 80
+  },
+  "23": {
+    "steps": 9536,
+    "total": 427,
+    "cal_active": 288,
+    "cal_total": 1826,
+    "score": 71
+  },
+  "24": {
+    "steps": 8878,
+    "total": 325,
+    "cal_active": 301,
+    "cal_total": 1767,
+    "score": 81
+  },
+  "25": {
+    "steps": 9712,
+    "total": 333,
+    "cal_active": 287,
+    "cal_total": 1750,
+    "score": 84
+  },
+  "26": {
+    "steps": 14238,
+    "total": 437,
+    "cal_active": 414,
+    "cal_total": 1890,
+    "score": 77
+  },
+  "27": {
+    "steps": 8284,
+    "total": 354,
+    "cal_active": 241,
+    "cal_total": 1722,
+    "score": 73
+  },
+  "28": {
+    "steps": 4868,
+    "total": 286,
+    "cal_active": 146,
+    "cal_total": 1631,
+    "score": 74
+  },
+  "29": {
+    "steps": 7101,
+    "total": 275,
+    "cal_active": 209,
+    "cal_total": 1675,
+    "score": 85
+  },
+  "30": {
+    "steps": 15389,
+    "total": 508,
+    "cal_active": 472,
+    "cal_total": 2014,
+    "score": 93
+  },
+  "31": {
+    "steps": 11034,
+    "total": 295,
+    "cal_active": 308,
+    "cal_total": 1792,
+    "score": 93
+  }
+}
