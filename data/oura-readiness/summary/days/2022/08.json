@@ -245,6 +245,36 @@
     "score_sleep_balance": 58,
     "score_temperature": 97
   },
-  "29": {},
-  "30": {}
+  "29": {
+    "score": 78,
+    "score_activity_balance": 94,
+    "score_hrv_balance": 99,
+    "score_previous_night": 50,
+    "score_recovery_index": 95,
+    "score_resting_hr": 85,
+    "score_sleep_balance": 64,
+    "score_temperature": 100
+  },
+  "30": {
+    "score": 54,
+    "score_activity_balance": 91,
+    "score_hrv_balance": 91,
+    "score_previous_day": 83,
+    "score_previous_night": 22,
+    "score_recovery_index": 45,
+    "score_resting_hr": 21,
+    "score_sleep_balance": 48,
+    "score_temperature": 100
+  },
+  "31": {
+    "score": 69,
+    "score_activity_balance": 88,
+    "score_hrv_balance": 90,
+    "score_previous_day": 89,
+    "score_previous_night": 46,
+    "score_recovery_index": 27,
+    "score_resting_hr": 100,
+    "score_sleep_balance": 53,
+    "score_temperature": 97
+  }
 }

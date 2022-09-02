@@ -190,11 +190,24 @@
     "score": 75
   },
   "29": {
-    "steps": 718,
-    "total": 23,
-    "cal_active": 29,
-    "cal_total": 1595,
+    "steps": 1355,
+    "total": 67,
+    "cal_active": 46,
+    "cal_total": 1456,
     "score": 65
   },
-  "30": {}
+  "30": {
+    "steps": 9528,
+    "total": 398,
+    "cal_active": 285,
+    "cal_total": 1829,
+    "score": 61
+  },
+  "31": {
+    "steps": 9575,
+    "total": 402,
+    "cal_active": 280,
+    "cal_total": 1824,
+    "score": 63
+  }
 }
