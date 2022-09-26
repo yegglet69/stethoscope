@@ -138,9 +138,36 @@
     "light": 8340,
     "score": 55
   },
-  "23": {},
-  "24": {},
-  "25": {},
+  "23": {
+    "total": 19290,
+    "rem": 2400,
+    "awake": 3690,
+    "deep": 7380,
+    "duration": 22980,
+    "efficiency": 84,
+    "light": 9510,
+    "score": 59
+  },
+  "24": {
+    "total": 22770,
+    "rem": 7260,
+    "awake": 4110,
+    "deep": 5970,
+    "duration": 26880,
+    "efficiency": 85,
+    "light": 9540,
+    "score": 68
+  },
+  "25": {
+    "total": 20430,
+    "rem": 2310,
+    "awake": 2250,
+    "deep": 4800,
+    "duration": 22680,
+    "efficiency": 90,
+    "light": 13320,
+    "score": 62
+  },
   "26": {},
   "27": {},
   "28": {},
