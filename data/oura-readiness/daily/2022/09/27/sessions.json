@@ -1,14 +1,16 @@
 [
   {
     "summary_date": "2022-09-27",
+    "period_id": 0,
     "score": 40,
-    "score_activity_balance": 56,
+    "score_activity_balance": 57,
     "score_hrv_balance": 31,
-    "score_previous_day": 61,
+    "score_previous_day": 63,
     "score_previous_night": 40,
     "score_recovery_index": 28,
     "score_resting_hr": 41,
     "score_sleep_balance": 35,
-    "score_temperature": 98
+    "score_temperature": 98,
+    "rest_mode_state": 0
   }
 ]
