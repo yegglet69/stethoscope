@@ -35,5 +35,11 @@
     "cal_total": 1783,
     "score": 86
   },
-  "2022-10-1": {}
+  "2022-10-1": {
+    "steps": 2442,
+    "total": 72,
+    "cal_active": 83,
+    "cal_total": 1642,
+    "score": 94
+  }
 }
