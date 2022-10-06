@@ -1,7 +1,8 @@
-[
-  {
-    "summary_date": "2022-10-05",
-    "period_id": 0,
+{
+  "2022-10-2": {},
+  "2022-10-3": {},
+  "2022-10-4": {},
+  "2022-10-5": {
     "score": 52,
     "score_activity_balance": 69,
     "score_hrv_balance": 65,
@@ -10,7 +11,9 @@
     "score_recovery_index": 21,
     "score_resting_hr": 64,
     "score_sleep_balance": 21,
-    "score_temperature": 100,
-    "rest_mode_state": 0
-  }
-]
+    "score_temperature": 100
+  },
+  "2022-10-6": {},
+  "2022-10-7": {},
+  "2022-10-8": {}
+}
