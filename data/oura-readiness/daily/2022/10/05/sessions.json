@@ -2,14 +2,14 @@
   {
     "summary_date": "2022-10-05",
     "period_id": 0,
-    "score": 52,
+    "score": 58,
     "score_activity_balance": 69,
-    "score_hrv_balance": 65,
+    "score_hrv_balance": 63,
     "score_previous_day": 76,
-    "score_previous_night": 69,
-    "score_recovery_index": 21,
+    "score_previous_night": 73,
+    "score_recovery_index": 67,
     "score_resting_hr": 64,
-    "score_sleep_balance": 21,
+    "score_sleep_balance": 27,
     "score_temperature": 100,
     "rest_mode_state": 0
   }
